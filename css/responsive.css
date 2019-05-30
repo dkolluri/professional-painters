@@ -1,0 +1,113 @@
+@media (min-width: 768px) and (max-width: 992px) {
+
+}
+@media (max-width: 992px) {
+	.logo-wrap {
+		padding-left: 0;
+	}
+	.call-wrap, .box-top h3 {
+		font-size: 26px;
+	}
+	.box {
+		width:80%;
+	}
+	.box-top h2 {
+		font-size: 36px;
+	}
+	.box-top h4 {
+		font-size: 24px;
+		line-height: 30px;
+	}
+	.box-middle h3 {
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.offer-price {
+		font-size: 70px;
+	}
+	.service-checks p {
+		font-size: 16px;
+	}
+	.btn-custom {
+		font-size: 24px;
+	}
+	.content h2 {
+		font-size: 38px;
+	}
+	.content h3, .footer-text {
+		font-size: 24px;
+	}
+	.footer-text span {
+		font-size: 30px;
+	}
+}
+@media (max-width: 767px) {
+	.call-wrap {
+		text-align: center;
+		font-size: 18px;
+		padding-right: 0;
+		padding-top: 20px;
+	}
+	.logo-wrap img {
+		margin: 0 auto;
+	}
+	.banner {
+		padding:20px 0;
+	}
+	.seperator-3 {
+		margin: 5px auto;
+	}
+	.box {
+		width: 90%;
+	}
+	.box-top {
+		margin-top: 0;
+	}
+	.box-top h2 {
+		font-size: 28px;
+		margin-top: 10px;
+	}
+	.box-top h3 {
+		font-size: 13px;
+		margin-top: 10px;
+	}
+	.box-top h4, .box-middle h3 {
+		font-size: 13px;
+		margin-top: 5px;
+		line-height: 1;
+	}
+	.offer-price {
+		font-size: 40px;
+		margin: 5px 0;
+	}
+	.box-middle h4, .control-label {
+		font-size: 14px;
+	}
+	.btn-custom {
+		font-size: 18px;
+	}
+	.service-checks p {
+		text-align: left;
+		padding-left: 15px;
+		margin-bottom: 10px;
+	}
+	.content {
+		padding: 20px 0;
+	}
+	.content h2 {
+		font-size: 32px;
+	}
+	.content h3, .footer-text {
+		font-size: 20px;
+	}
+	.list-custom, .content p {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.list-custom li {
+		margin-bottom: 5px;
+	}
+	.footer-text span {
+		font-size: 20px;
+	}
+}
